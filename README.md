@@ -11,6 +11,8 @@ I’m currently learning Data Science, Machine Learning
 [LinkedIn](https://www.linkedin.com/in/shamim-ice/)
 [Facebook](https://www.facebook.com/shamim.ice.iu/)
 
+# My stats
+
 <!---
 shamim-ice/shamim-ice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
