@@ -12,6 +12,8 @@ I’m currently learning Data Science, Machine Learning
 [Facebook](https://www.facebook.com/shamim.ice.iu/)
 
 # My stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shamim-ice&layout=compact)](https://github.com/shamim-ice/github-readme-stats)
+![shamim-ice's GitHub stats](https://github-readme-stats.vercel.app/api?username=shamim-ice&show_icons=true&theme=radical)
 
 <!---
 shamim-ice/shamim-ice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
