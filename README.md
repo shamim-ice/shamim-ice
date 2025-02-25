@@ -1,8 +1,8 @@
 Hi there 👋,
 
-I’m Md Shamim Hossain graduated from the ICT department of Islamic University (IU), Kushtia-7003, Bangladesh, and currently pursuing his postgraduate degree in the same department. In 2020, I have been awarded the ICTD, BD postgraduate research fellowship, tilted on "Machine Learning Based Malicious User Detection for Reliable Cooperative Radio Spectrum Sensing in Cognitive Radio-Internet of Thing" which is one of the most prestigious research-oriented fellowships among all university students who are pursuing research in Bangladesh.
+I’m Md Shamim Hossain, Lecturer Sonargaon University, Green Road, 147/I, Dhaka, Department of Computer Science and Engineering. I've completed my graduation and post-graduation from the ICT department of Islamic University (IU), Kushtia-7003, Bangladesh. In 2020, I have been awarded the ICTD, BD postgraduate research fellowship, tilted on "Machine Learning Based Malicious User Detection for Reliable Cooperative Radio Spectrum Sensing in Cognitive Radio-Internet of Thing" which is one of the most prestigious research-oriented fellowships among all university students who are pursuing research in Bangladesh.
 # Interest
-I have a vested research interests in Data Science and Machine Learning space.
+I have a vested research interests in Big Data Engineering, Data Analysis, and Data Science.
 
 # Reach me at
 [Email](shamim.ice.iu@gmail.com)
